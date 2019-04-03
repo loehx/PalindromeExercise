@@ -1,4 +1,4 @@
-# PalindromeExercise
+# Exercise
 
 1. Write a function that determines whether or not a word is a palindrome (a word that is spelled the same way both forwards and backwards). Please provide your results in one of these languages: JavaScript, Python, C++, C#, PHP.
 
